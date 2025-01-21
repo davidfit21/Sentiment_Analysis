@@ -34,11 +34,11 @@ The final **ensemble model** combines predictions from three architectures using
 ## Setup and Installation
 Install the required dependencies:
 
-pip install datasets
-pip install tensorflow
-pip install scikit-learn
-pip install numpy
-pip install scipy
+- pip install datasets
+- pip install tensorflow
+- pip install scikit-learn
+- pip install numpy
+- pip install scipy
 
 Download glove.6B.300d.txt file at: https://www.kaggle.com/datasets/thanakomsn/glove6b300dtxt?resource=download
 
