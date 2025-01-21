@@ -7,7 +7,6 @@
 - [Setup and Installation](#setup-and-installation)
 - [Usage Guide](#usage-guide)
 - [Results](#results)
-- [Contributions](#contributions)
 
 ## Description
 This project uses the IMDB dataset to train and evaluate deep learning models for binary sentiment classification. Text preprocessing includes tokenization, padding sequences, and incorporating pre-trained GloVe embeddings to represent words as dense vectors.
@@ -41,4 +40,9 @@ pip install scikit-learn
 pip install numpy
 pip install scipy
 
+Download glove.6B.300d.txt file at: https://www.kaggle.com/datasets/thanakomsn/glove6b300dtxt?resource=download
 
+## Usage Guide
+
+## Results
+Our ensemble model has achieved an accuracy of 93.8% in classifying sentiments as positive or negative using the IMDB dataset.
