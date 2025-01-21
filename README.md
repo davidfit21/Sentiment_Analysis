@@ -1,5 +1,4 @@
 # Sentiment Analysis Using Deep Learning Methods
-
 **Description**
 ----------------------
 The project uses the IMDB dataset to train and evaluate deep learning models. Text preprocessing includes tokenization, padding sequences, and incorporating pre-trained GloVe embeddings to represent words as dense vectors. The processed text data is fed into three distinct deep learning models, each designed with unique architectures to capture different aspects of the data.
