@@ -45,4 +45,4 @@ Download **glove.6B.300d.txt** file at: https://www.kaggle.com/datasets/thanakom
 ## Usage Guide
 
 ## Results
-Our ensemble model has achieved an accuracy of 93.8% in classifying sentiments as positive or negative using the IMDB dataset.
+The final ensemble model has achieved an accuracy of 93.8% in classifying sentiments as positive or negative using the IMDB dataset.
