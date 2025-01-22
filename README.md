@@ -1,4 +1,4 @@
-# Sentiment Analysis Using Deep Learning Methods
+# Sentiment Analysis On Movie Reviews
 
 ## Table of Contents
 - [Description](#description)
