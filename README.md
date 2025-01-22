@@ -40,7 +40,7 @@ Install the required dependencies:
 - pip install numpy
 - pip install scipy
 
-Download glove.6B.300d.txt file at: https://www.kaggle.com/datasets/thanakomsn/glove6b300dtxt?resource=download
+Download **glove.6B.300d.txt** file at: https://www.kaggle.com/datasets/thanakomsn/glove6b300dtxt?resource=download
 
 ## Usage Guide
 
